@@ -1,0 +1,17 @@
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\bin\Debug\BindingApp.exe.config
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\bin\Debug\BindingApp.exe
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\bin\Debug\BindingApp.pdb
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp.csproj.AssemblyReference.cache
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\MainWindow.g.cs
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\TagControl\TagControl.g.cs
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\App.g.cs
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp_MarkupCompile.cache
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp_MarkupCompile.lref
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\MainWindow.baml
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\TagControl\TagControl.baml
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp.g.resources
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp.Properties.Resources.resources
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp.csproj.GenerateResource.cache
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp.csproj.CoreCompileInputs.cache
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp.exe
+C:\Users\bjorn\source\repos\BindingApp\BindingApp\obj\Debug\BindingApp.pdb
