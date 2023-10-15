@@ -58,6 +58,7 @@
     <Compile Include="TagControl\TagControl.xaml.cs">
       <DependentUpon>TagControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="TagControl\TagControlViewModel.cs" />
     <Compile Include="TagControl\TagItem.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

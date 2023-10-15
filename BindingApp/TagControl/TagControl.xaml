@@ -6,8 +6,13 @@
         xmlns:local="clr-namespace:BindingApp.TagControl"
         mc:Ignorable="d"
         Title="TagControl" Height="450" Width="800">
+    <!-- Set the DataContext for the Window to the ViewModel -->
+    <Window.DataContext>
+        <local:TagControlViewModel />
+    </Window.DataContext>
+
     <Grid>
-        <ListView Margin="10" Name="lvDataBinding">
+        <ListView Margin="10" ItemsSource="{Binding Items}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <WrapPanel>
