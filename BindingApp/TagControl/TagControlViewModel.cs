@@ -37,6 +37,14 @@ namespace BindingApp.TagControl
             return items;
         }
 
+        public void ItemSelected(TagItem selectedTagItem)
+        {
+            foreach (var item in Items)
+            {
+                item.IsSelected = (item == selectedTagItem);
+            }
+        }
+
         public TagControlViewModel()
         {
             // Make empty collection exist.

@@ -15,7 +15,7 @@
         <ListView Margin="10" ItemsSource="{Binding Items}">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <WrapPanel>
+                    <WrapPanel MouseLeftButtonDown="WrapPanel_MouseLeftButtonDown">
                         <TextBlock Text="Name: " />
                         <TextBlock Text="{Binding Name}" FontWeight="Bold" Foreground="{Binding Color}" />
                     </WrapPanel>
